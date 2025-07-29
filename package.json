@@ -15,7 +15,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "start2": "react-scripts start --host 0.0.0.0 --port 3000"
+    
   },
   "eslintConfig": {
     "extends": [
